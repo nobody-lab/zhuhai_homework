@@ -1,0 +1,9 @@
+torch
+torchvision
+math
+Pillow
+os
+matplotlib		
+numpy	
+opencv-python			
+scikit-learn	
