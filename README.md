@@ -24,10 +24,10 @@ $weizmann_horse_db
 
 ## 运行说明
 
-已经训练好的模型为model_60.pth
-训练模型运行train.py
-使用训练好的模型model_60.pth预测结果运行predict.py
-训练的指标曲线图是train.png和test.png
+已经训练好的模型为model_60.pth<br/>
+训练模型运行train.py<br/>
+使用训练好的模型model_60.pth预测结果运行predict.py<br/>
+训练的指标曲线图是train.png和test.png<br/>
 实验预测图保存在“predict/”文件夹中.
 
 ## 实验结果
@@ -37,4 +37,4 @@ $weizmann_horse_db
 </p>
 
 ## 声明
-此代码仅用于非商业目的，根据 ADOBE IMAGE DATASET 许可协议的规定，此存储库中包含的训练模型只能用于/分发用于非商业目的。任何违反此规则的人都将自行承担风险。
+此代码仅用于非商业目的，根据 ADOBE IMAGE DATASET 许可协议的规定，此存储库中包含的训练模型只能用于非商业目的。任何违反此规则的人都将自行承担风险。
