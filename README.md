@@ -31,5 +31,5 @@ $weizmann_horse_db
   <img src="README/predict.png" width="350" title="horse"/>
 </p>
 
-## Permission and Disclaimer
+## 声明
 此代码仅用于非商业目的，根据 ADOBE IMAGE DATASET 许可协议的规定，此存储库中包含的训练模型只能用于/分发用于非商业目的。任何违反此规则的人都将自行承担风险。
