@@ -20,13 +20,13 @@ $weizmann_horse_db
 ````
 
 ## 安装
-本次代码在python 3.7和pytorch 1.11.0上进行了测试，CUDA版本为11.3，需要的包见`requirements.txt`.
+本次代码在python 3.7和pytorch 1.11.0上进行了测试，CUDA版本为11.3，需要的包见`requirements.txt`
 
 ## 运行说明
-训练模型运行`train.py`
-使用训练好的模型预测结果运行`predict.py`，已经训练好的模型为`model_60.pth`
-训练的指标曲线图是`train.png`和`test.png`
-实验预测图保存在`predict/`文件夹中.
+训练模型运行train.py
+使用训练好的模型预测结果运行predict.py，已经训练好的模型为model_60.pth
+训练的指标曲线图是train.png和test.png
+实验预测图保存在“predict/”文件夹中.
 
 ## 实验结果
 如下图所示：
